@@ -5,3 +5,11 @@
 Дизайн, и функционал разработаны мной. Все экраны адаптивны для всех разрешений.
 
 Работу функционала можно посмотреть на сайте [ТопДом.рф](https://xn--d1aqebdq.xn--p1ai/ "ТопДом.рф")
+
+## Desktop
+
+![Desktop](https://raw.githubusercontent.com/k3499/favourites-topdom/main/cover/desktop.gif)
+
+## Mobile
+
+![Mobile](https://github.com/k3499/favourites-topdom/blob/main/cover/mobile.gif?raw=true)
